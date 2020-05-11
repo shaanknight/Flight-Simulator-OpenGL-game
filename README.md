@@ -1,9 +1,9 @@
-Name : Sayantan Jana
-Roll no. : 20171185
+# Flight-Simulator
+### Built using C++ and OpenGL
 
-Graphics assignment2
+The details of the game is described in the pdf Game_description.pdf .
 
-Key controls :
+##### Key controls :
 
 a : span left
 d : span right
@@ -27,7 +27,7 @@ k : perform a barrel roll
 q : quit
 esc : quit the game
 
-Dashboard : 
+##### Dashboard : 
 
 Top left corner has the compass.
 Bottom Right corner has the speedometer
@@ -39,12 +39,12 @@ green : health
 Apart from these scoring and collision appreciations appear on screen and final score
 shown at the end.
 
-Enemies : 
+##### Details of the fight : 
 
-Canon throws bullets at plane and you can throw bullets at it to destroy.
-You can destroy island and canon by bombing to get points.
-Pass through the smoking rings without significantly destroying it else u lose health points.
-Shoot parachutes else when they touch you cause you harm .
+- Canon throws bullets at plane and you can throw bullets at it to destroy.
+- You can destroy island and canon by bombing to get points.
+- Pass through the smoking rings without significantly destroying it else u lose health points.
+- Shoot parachutes else when they touch you cause you harm .
 
 
 
